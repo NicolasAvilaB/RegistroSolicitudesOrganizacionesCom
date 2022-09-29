@@ -1,0 +1,950 @@
+[11-Mar-2019 14:53:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:106) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 150
+[11-Mar-2019 14:54:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:106) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 150
+[11-Mar-2019 14:54:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:106) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 150
+[11-Mar-2019 15:00:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:106) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 150
+[11-Mar-2019 15:04:59 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 34
+[11-Mar-2019 15:04:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:106) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 150
+[11-Mar-2019 15:09:26 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 34
+[11-Mar-2019 15:11:24 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 34
+[11-Mar-2019 15:12:22 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 34
+[11-Mar-2019 15:19:29 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 34
+[11-Mar-2019 15:38:23 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 62
+[11-Mar-2019 15:38:29 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 62
+[11-Mar-2019 15:39:01 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 66
+[11-Mar-2019 15:46:03 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 15:46:34 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 15:54:03 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 15:56:55 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 15:58:16 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 16:07:17 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 16:17:30 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 16:17:50 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 16:18:30 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 16:19:10 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 16:19:22 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 16:19:41 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 16:20:10 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 16:20:37 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 16:20:55 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 16:21:24 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 16:21:50 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 16:23:05 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 16:23:58 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 16:24:34 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 16:25:00 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 16:25:16 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 16:26:04 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 16:28:34 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 16:29:18 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 16:30:00 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 16:32:12 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 16:48:23 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 16:49:07 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 16:49:39 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 16:50:00 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 16:50:01 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 16:50:31 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 16:51:57 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 16:52:15 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 16:52:38 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 16:53:03 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 16:53:20 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 16:53:33 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 16:53:53 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 16:54:19 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 16:54:47 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 16:55:15 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 16:57:04 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 16:57:18 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 16:57:38 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 16:58:07 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 16:58:18 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 16:58:30 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 16:58:42 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 16:58:54 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 16:59:42 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 16:59:53 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 17:00:08 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 17:00:22 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 17:00:37 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 17:01:58 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 17:02:12 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 17:02:21 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 17:02:33 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 17:02:43 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 17:02:55 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 17:03:15 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 17:03:31 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 17:03:41 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 17:03:42 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 17:12:23 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 17:12:41 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 17:15:21 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 17:15:52 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 17:16:16 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 17:16:26 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 17:16:36 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 17:19:33 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 17:19:48 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 17:20:00 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 17:20:23 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 17:20:38 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 17:20:58 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 17:23:13 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 17:24:28 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 17:24:59 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 17:25:28 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 17:25:37 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 17:25:50 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 17:26:02 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 17:26:39 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 17:27:03 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 17:27:15 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 17:28:10 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 17:28:45 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 17:29:01 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 17:29:12 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 17:29:34 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 17:29:52 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 17:30:04 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 17:30:15 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 17:30:33 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 17:31:30 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 17:31:40 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 17:31:50 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 17:32:02 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[11-Mar-2019 19:12:58 UTC] PHP Notice:  Undefined index: usua in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 34
+[11-Mar-2019 19:12:58 UTC] PHP Notice:  Undefined index: cla in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 35
+[11-Mar-2019 19:12:58 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[12-Mar-2019 12:17:18 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[12-Mar-2019 12:18:30 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[12-Mar-2019 12:50:02 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[12-Mar-2019 12:57:03 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[12-Mar-2019 13:03:37 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[13-Mar-2019 14:00:41 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[13-Mar-2019 14:28:18 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[13-Mar-2019 15:18:54 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[13-Mar-2019 15:51:00 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[13-Mar-2019 15:59:53 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[13-Mar-2019 16:05:14 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[13-Mar-2019 16:06:00 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[13-Mar-2019 16:06:22 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 36
+[13-Mar-2019 16:27:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:101) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 177
+[13-Mar-2019 16:27:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:101) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 178
+[13-Mar-2019 16:27:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:101) in /home/cre37351/public_html/MuniSocial/solicitud/functions.php on line 2
+[13-Mar-2019 16:27:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:101) in /home/cre37351/public_html/MuniSocial/solicitud/functions.php on line 3
+[13-Mar-2019 16:27:05 UTC] PHP Notice:  Undefined index: rut in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 180
+[13-Mar-2019 16:27:05 UTC] PHP Notice:  Undefined index: nombre in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 181
+[13-Mar-2019 16:27:05 UTC] PHP Notice:  Undefined index: nombre in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 183
+[13-Mar-2019 16:27:05 UTC] PHP Notice:  Undefined index: nombre in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 188
+[13-Mar-2019 16:27:05 UTC] PHP Notice:  Undefined index: juntas in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 191
+[13-Mar-2019 16:27:05 UTC] PHP Notice:  Undefined index: telefono in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 202
+[13-Mar-2019 16:27:05 UTC] PHP Notice:  Undefined index: telefono2 in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 203
+[13-Mar-2019 16:27:05 UTC] PHP Notice:  Undefined index: telefono3 in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 204
+[13-Mar-2019 16:27:05 UTC] PHP Notice:  Undefined index: se in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 205
+[13-Mar-2019 16:27:05 UTC] PHP Notice:  Undefined index: se2 in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 206
+[13-Mar-2019 16:27:05 UTC] PHP Notice:  Undefined index: se3 in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 207
+[13-Mar-2019 16:27:05 UTC] PHP Notice:  Undefined index: cargo in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 209
+[13-Mar-2019 16:27:05 UTC] PHP Notice:  Undefined index: directiva in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 210
+[13-Mar-2019 16:27:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:101) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 177
+[13-Mar-2019 16:27:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:101) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 178
+[13-Mar-2019 16:27:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:101) in /home/cre37351/public_html/MuniSocial/solicitud/functions.php on line 2
+[13-Mar-2019 16:27:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:101) in /home/cre37351/public_html/MuniSocial/solicitud/functions.php on line 3
+[13-Mar-2019 16:27:14 UTC] PHP Notice:  Undefined index: rut in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 180
+[13-Mar-2019 16:27:14 UTC] PHP Notice:  Undefined index: nombre in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 181
+[13-Mar-2019 16:27:14 UTC] PHP Notice:  Undefined index: nombre in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 183
+[13-Mar-2019 16:27:14 UTC] PHP Notice:  Undefined index: nombre in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 188
+[13-Mar-2019 16:27:14 UTC] PHP Notice:  Undefined index: juntas in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 191
+[13-Mar-2019 16:27:14 UTC] PHP Notice:  Undefined index: telefono in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 202
+[13-Mar-2019 16:27:14 UTC] PHP Notice:  Undefined index: telefono2 in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 203
+[13-Mar-2019 16:27:14 UTC] PHP Notice:  Undefined index: telefono3 in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 204
+[13-Mar-2019 16:27:14 UTC] PHP Notice:  Undefined index: se in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 205
+[13-Mar-2019 16:27:14 UTC] PHP Notice:  Undefined index: se2 in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 206
+[13-Mar-2019 16:27:14 UTC] PHP Notice:  Undefined index: se3 in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 207
+[13-Mar-2019 16:27:14 UTC] PHP Notice:  Undefined index: cargo in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 209
+[13-Mar-2019 16:27:14 UTC] PHP Notice:  Undefined index: directiva in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 210
+[13-Mar-2019 16:59:43 UTC] PHP Notice:  Undefined index: usua in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 58
+[13-Mar-2019 16:59:43 UTC] PHP Notice:  Undefined index: cla in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 59
+[13-Mar-2019 16:59:43 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[13-Mar-2019 17:00:02 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[13-Mar-2019 17:18:45 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[13-Mar-2019 20:22:20 UTC] PHP Notice:  Undefined variable: nombre in /home/cre37351/public_html/MuniSocial/solicitud/buscar.php on line 41
+[13-Mar-2019 20:27:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:124) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 201
+[13-Mar-2019 20:27:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:124) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 202
+[13-Mar-2019 20:27:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:124) in /home/cre37351/public_html/MuniSocial/solicitud/functions.php on line 2
+[13-Mar-2019 20:27:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:124) in /home/cre37351/public_html/MuniSocial/solicitud/functions.php on line 3
+[13-Mar-2019 20:27:06 UTC] PHP Notice:  Undefined index: rut in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 204
+[13-Mar-2019 20:27:06 UTC] PHP Notice:  Undefined index: nombre in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 205
+[13-Mar-2019 20:27:06 UTC] PHP Notice:  Undefined index: nombre in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 207
+[13-Mar-2019 20:27:06 UTC] PHP Notice:  Undefined index: nombre in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 212
+[13-Mar-2019 20:27:06 UTC] PHP Notice:  Undefined index: juntas in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 215
+[13-Mar-2019 20:27:06 UTC] PHP Notice:  Undefined index: telefono in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 226
+[13-Mar-2019 20:27:06 UTC] PHP Notice:  Undefined index: telefono2 in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 227
+[13-Mar-2019 20:27:06 UTC] PHP Notice:  Undefined index: telefono3 in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 228
+[13-Mar-2019 20:27:06 UTC] PHP Notice:  Undefined index: se in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 229
+[13-Mar-2019 20:27:06 UTC] PHP Notice:  Undefined index: se2 in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 230
+[13-Mar-2019 20:27:06 UTC] PHP Notice:  Undefined index: se3 in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 231
+[13-Mar-2019 20:27:06 UTC] PHP Notice:  Undefined index: cargo in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 233
+[13-Mar-2019 20:27:06 UTC] PHP Notice:  Undefined index: directiva in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 234
+[13-Mar-2019 20:27:06 UTC] PHP Notice:  Undefined index: sector in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 235
+[13-Mar-2019 20:32:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:124) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 201
+[13-Mar-2019 20:32:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:124) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 202
+[13-Mar-2019 20:32:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:124) in /home/cre37351/public_html/MuniSocial/solicitud/functions.php on line 2
+[13-Mar-2019 20:32:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:124) in /home/cre37351/public_html/MuniSocial/solicitud/functions.php on line 3
+[13-Mar-2019 20:32:04 UTC] PHP Notice:  Undefined index: rut in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 204
+[13-Mar-2019 20:32:04 UTC] PHP Notice:  Undefined index: nombre in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 205
+[13-Mar-2019 20:32:04 UTC] PHP Notice:  Undefined index: nombre in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 207
+[13-Mar-2019 20:32:04 UTC] PHP Notice:  Undefined index: nombre in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 212
+[13-Mar-2019 20:32:04 UTC] PHP Notice:  Undefined index: juntas in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 215
+[13-Mar-2019 20:32:04 UTC] PHP Notice:  Undefined index: telefono in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 226
+[13-Mar-2019 20:32:04 UTC] PHP Notice:  Undefined index: telefono2 in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 227
+[13-Mar-2019 20:32:04 UTC] PHP Notice:  Undefined index: telefono3 in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 228
+[13-Mar-2019 20:32:04 UTC] PHP Notice:  Undefined index: se in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 229
+[13-Mar-2019 20:32:04 UTC] PHP Notice:  Undefined index: se2 in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 230
+[13-Mar-2019 20:32:04 UTC] PHP Notice:  Undefined index: se3 in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 231
+[13-Mar-2019 20:32:04 UTC] PHP Notice:  Undefined index: cargo in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 233
+[13-Mar-2019 20:32:04 UTC] PHP Notice:  Undefined index: directiva in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 234
+[13-Mar-2019 20:32:04 UTC] PHP Notice:  Undefined index: sector in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 235
+[14-Mar-2019 11:56:02 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 12:04:00 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 12:08:31 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 12:09:06 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 12:09:23 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 12:10:08 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 12:10:23 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 12:10:40 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 12:11:11 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 12:11:27 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 12:11:53 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 12:13:16 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 12:13:50 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 12:14:15 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 12:14:31 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 12:15:12 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 12:15:37 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 12:16:00 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 12:16:32 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 12:16:51 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 12:17:06 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 12:17:33 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 12:18:35 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 12:19:02 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 12:19:37 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 12:19:55 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 12:20:12 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 12:20:26 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 12:20:54 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 12:21:10 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 12:21:28 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 12:21:48 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 12:22:13 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 12:22:28 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 12:24:56 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 12:25:13 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 12:32:39 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 12:52:22 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 12:52:34 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 12:52:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:124) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 201
+[14-Mar-2019 12:52:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:124) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 202
+[14-Mar-2019 12:52:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:124) in /home/cre37351/public_html/MuniSocial/solicitud/functions.php on line 2
+[14-Mar-2019 12:52:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:124) in /home/cre37351/public_html/MuniSocial/solicitud/functions.php on line 3
+[14-Mar-2019 12:52:34 UTC] PHP Notice:  Undefined index: rut in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 204
+[14-Mar-2019 12:52:34 UTC] PHP Notice:  Undefined index: nombre in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 205
+[14-Mar-2019 12:52:34 UTC] PHP Notice:  Undefined index: nombre in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 207
+[14-Mar-2019 12:52:34 UTC] PHP Notice:  Undefined index: nombre in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 212
+[14-Mar-2019 12:52:34 UTC] PHP Notice:  Undefined index: juntas in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 215
+[14-Mar-2019 12:52:34 UTC] PHP Notice:  Undefined index: telefono in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 226
+[14-Mar-2019 12:52:34 UTC] PHP Notice:  Undefined index: telefono2 in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 227
+[14-Mar-2019 12:52:34 UTC] PHP Notice:  Undefined index: telefono3 in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 228
+[14-Mar-2019 12:52:34 UTC] PHP Notice:  Undefined index: se in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 229
+[14-Mar-2019 12:52:34 UTC] PHP Notice:  Undefined index: se2 in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 230
+[14-Mar-2019 12:52:34 UTC] PHP Notice:  Undefined index: se3 in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 231
+[14-Mar-2019 12:52:34 UTC] PHP Notice:  Undefined index: cargo in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 233
+[14-Mar-2019 12:52:34 UTC] PHP Notice:  Undefined index: directiva in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 234
+[14-Mar-2019 12:52:34 UTC] PHP Notice:  Undefined index: sector in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 235
+[14-Mar-2019 12:53:20 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 12:53:27 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 12:53:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:124) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 201
+[14-Mar-2019 12:53:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:124) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 202
+[14-Mar-2019 12:53:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:124) in /home/cre37351/public_html/MuniSocial/solicitud/functions.php on line 2
+[14-Mar-2019 12:53:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:124) in /home/cre37351/public_html/MuniSocial/solicitud/functions.php on line 3
+[14-Mar-2019 12:53:27 UTC] PHP Notice:  Undefined index: rut in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 204
+[14-Mar-2019 12:53:27 UTC] PHP Notice:  Undefined index: nombre in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 205
+[14-Mar-2019 12:53:27 UTC] PHP Notice:  Undefined index: nombre in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 207
+[14-Mar-2019 12:53:27 UTC] PHP Notice:  Undefined index: nombre in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 212
+[14-Mar-2019 12:53:27 UTC] PHP Notice:  Undefined index: juntas in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 215
+[14-Mar-2019 12:53:27 UTC] PHP Notice:  Undefined index: telefono in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 226
+[14-Mar-2019 12:53:27 UTC] PHP Notice:  Undefined index: telefono2 in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 227
+[14-Mar-2019 12:53:27 UTC] PHP Notice:  Undefined index: telefono3 in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 228
+[14-Mar-2019 12:53:27 UTC] PHP Notice:  Undefined index: se in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 229
+[14-Mar-2019 12:53:27 UTC] PHP Notice:  Undefined index: se2 in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 230
+[14-Mar-2019 12:53:27 UTC] PHP Notice:  Undefined index: se3 in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 231
+[14-Mar-2019 12:53:27 UTC] PHP Notice:  Undefined index: cargo in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 233
+[14-Mar-2019 12:53:27 UTC] PHP Notice:  Undefined index: directiva in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 234
+[14-Mar-2019 12:53:27 UTC] PHP Notice:  Undefined index: sector in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 235
+[14-Mar-2019 12:54:19 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 12:54:44 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 12:54:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:124) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 185
+[14-Mar-2019 12:54:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:124) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 186
+[14-Mar-2019 12:54:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:124) in /home/cre37351/public_html/MuniSocial/solicitud/functions.php on line 2
+[14-Mar-2019 12:54:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:124) in /home/cre37351/public_html/MuniSocial/solicitud/functions.php on line 3
+[14-Mar-2019 12:54:44 UTC] PHP Notice:  Undefined index: rut in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 188
+[14-Mar-2019 12:54:44 UTC] PHP Notice:  Undefined index: nombre in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 189
+[14-Mar-2019 12:54:44 UTC] PHP Notice:  Undefined index: nombre in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 191
+[14-Mar-2019 12:54:44 UTC] PHP Notice:  Undefined index: nombre in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 196
+[14-Mar-2019 12:54:44 UTC] PHP Notice:  Undefined index: juntas in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 199
+[14-Mar-2019 12:54:44 UTC] PHP Notice:  Undefined index: telefono in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 210
+[14-Mar-2019 12:54:44 UTC] PHP Notice:  Undefined index: telefono2 in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 211
+[14-Mar-2019 12:54:44 UTC] PHP Notice:  Undefined index: telefono3 in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 212
+[14-Mar-2019 12:54:44 UTC] PHP Notice:  Undefined index: se in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 213
+[14-Mar-2019 12:54:44 UTC] PHP Notice:  Undefined index: se2 in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 214
+[14-Mar-2019 12:54:44 UTC] PHP Notice:  Undefined index: se3 in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 215
+[14-Mar-2019 12:54:44 UTC] PHP Notice:  Undefined index: cargo in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 217
+[14-Mar-2019 12:54:44 UTC] PHP Notice:  Undefined index: directiva in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 218
+[14-Mar-2019 12:54:44 UTC] PHP Notice:  Undefined index: sector in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 219
+[14-Mar-2019 12:56:19 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 12:57:45 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 12:57:52 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 12:57:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:124) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 182
+[14-Mar-2019 12:57:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:124) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 183
+[14-Mar-2019 12:57:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:124) in /home/cre37351/public_html/MuniSocial/solicitud/functions.php on line 2
+[14-Mar-2019 12:57:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:124) in /home/cre37351/public_html/MuniSocial/solicitud/functions.php on line 3
+[14-Mar-2019 12:57:52 UTC] PHP Notice:  Undefined index: rut in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 185
+[14-Mar-2019 12:57:52 UTC] PHP Notice:  Undefined index: nombre in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 186
+[14-Mar-2019 12:57:52 UTC] PHP Notice:  Undefined index: nombre in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 188
+[14-Mar-2019 12:57:52 UTC] PHP Notice:  Undefined index: nombre in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 193
+[14-Mar-2019 12:57:52 UTC] PHP Notice:  Undefined index: juntas in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 196
+[14-Mar-2019 12:57:52 UTC] PHP Notice:  Undefined index: telefono in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 207
+[14-Mar-2019 12:57:52 UTC] PHP Notice:  Undefined index: telefono2 in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 208
+[14-Mar-2019 12:57:52 UTC] PHP Notice:  Undefined index: telefono3 in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 209
+[14-Mar-2019 12:57:52 UTC] PHP Notice:  Undefined index: se in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 210
+[14-Mar-2019 12:57:52 UTC] PHP Notice:  Undefined index: se2 in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 211
+[14-Mar-2019 12:57:52 UTC] PHP Notice:  Undefined index: se3 in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 212
+[14-Mar-2019 12:57:52 UTC] PHP Notice:  Undefined index: cargo in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 214
+[14-Mar-2019 12:57:52 UTC] PHP Notice:  Undefined index: directiva in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 215
+[14-Mar-2019 12:57:52 UTC] PHP Notice:  Undefined index: sector in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 216
+[14-Mar-2019 12:58:22 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 15:33:29 UTC] PHP Notice:  Undefined index: usua in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 58
+[14-Mar-2019 15:33:29 UTC] PHP Notice:  Undefined index: cla in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 59
+[14-Mar-2019 15:33:29 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 15:38:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:133) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 171
+[14-Mar-2019 15:38:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:133) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 171
+[14-Mar-2019 15:39:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:133) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 171
+[14-Mar-2019 15:40:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:133) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 171
+[14-Mar-2019 15:42:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:145) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 183
+[14-Mar-2019 15:42:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:140) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 178
+[14-Mar-2019 15:43:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:140) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 178
+[14-Mar-2019 15:44:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:140) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 178
+[14-Mar-2019 15:45:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:140) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 178
+[14-Mar-2019 15:46:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:140) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 178
+[14-Mar-2019 15:46:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:140) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 178
+[14-Mar-2019 15:52:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:140) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 178
+[14-Mar-2019 15:52:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:140) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 178
+[14-Mar-2019 15:53:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:140) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 178
+[14-Mar-2019 15:54:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:136) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 174
+[14-Mar-2019 15:55:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:136) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 174
+[14-Mar-2019 15:57:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:136) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 174
+[14-Mar-2019 15:58:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:136) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 174
+[14-Mar-2019 15:58:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:136) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 174
+[14-Mar-2019 15:58:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:135) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 173
+[14-Mar-2019 15:59:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:135) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 173
+[14-Mar-2019 16:00:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:135) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 173
+[14-Mar-2019 16:00:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:135) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 173
+[14-Mar-2019 16:04:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:163) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 201
+[14-Mar-2019 16:05:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:164) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 202
+[14-Mar-2019 16:06:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:164) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 202
+[14-Mar-2019 16:07:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:165) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 203
+[14-Mar-2019 16:07:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:165) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 203
+[14-Mar-2019 16:10:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:165) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 203
+[14-Mar-2019 16:10:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:165) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 203
+[14-Mar-2019 16:10:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:164) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 202
+[14-Mar-2019 16:17:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:164) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 202
+[14-Mar-2019 16:17:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:164) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 202
+[14-Mar-2019 16:18:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:164) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 202
+[14-Mar-2019 16:18:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:164) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 202
+[14-Mar-2019 16:19:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:162) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 200
+[14-Mar-2019 16:20:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:162) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 200
+[14-Mar-2019 16:20:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:164) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 202
+[14-Mar-2019 16:21:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:164) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 202
+[14-Mar-2019 16:23:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:164) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 202
+[14-Mar-2019 16:24:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:164) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 202
+[14-Mar-2019 16:24:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:164) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 202
+[14-Mar-2019 16:24:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:160) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 198
+[14-Mar-2019 16:25:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:164) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 202
+[14-Mar-2019 16:26:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:164) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 202
+[14-Mar-2019 16:26:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:164) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 202
+[14-Mar-2019 16:26:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:164) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 202
+[14-Mar-2019 16:27:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:164) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 202
+[14-Mar-2019 16:27:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:160) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 198
+[14-Mar-2019 16:28:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:160) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 198
+[14-Mar-2019 16:30:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:160) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 198
+[14-Mar-2019 18:56:35 UTC] PHP Notice:  Undefined index: usua in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 58
+[14-Mar-2019 18:56:35 UTC] PHP Notice:  Undefined index: cla in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 59
+[14-Mar-2019 18:56:35 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 18:56:51 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 18:57:37 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 18:58:16 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 18:58:49 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 18:59:25 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 18:59:45 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 19:00:11 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 19:00:47 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 19:03:31 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 19:04:11 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 19:05:36 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 19:06:14 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 19:06:37 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 19:07:01 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 19:08:14 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 19:09:55 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 19:11:12 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 19:11:50 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 19:12:25 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 19:13:45 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 19:17:11 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 19:17:42 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 19:17:57 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 19:18:30 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 19:18:51 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 19:19:33 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 19:19:52 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 19:20:38 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 19:21:15 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 19:21:37 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 19:25:31 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 19:26:03 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 19:30:38 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 19:31:33 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 19:35:26 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 19:35:59 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 19:36:34 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 19:36:49 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 19:37:02 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 19:37:18 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 19:38:13 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 19:43:25 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 60
+[14-Mar-2019 23:39:06 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 70
+[14-Mar-2019 23:39:49 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 70
+[14-Mar-2019 23:50:17 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 69
+[14-Mar-2019 23:51:29 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 69
+[15-Mar-2019 11:47:23 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 69
+[15-Mar-2019 11:55:13 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 69
+[15-Mar-2019 15:21:59 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 65
+[15-Mar-2019 15:22:31 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 65
+[15-Mar-2019 15:22:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:130) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 185
+[15-Mar-2019 15:22:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:130) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 186
+[15-Mar-2019 15:22:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:130) in /home/cre37351/public_html/MuniSocial/solicitud/functions.php on line 2
+[15-Mar-2019 15:22:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:130) in /home/cre37351/public_html/MuniSocial/solicitud/functions.php on line 3
+[15-Mar-2019 12:22:31 America/Santiago] PHP Notice:  Undefined index: sector in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 237
+[15-Mar-2019 15:24:23 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 65
+[15-Mar-2019 15:24:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:130) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 185
+[15-Mar-2019 15:24:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:130) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 186
+[15-Mar-2019 15:24:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:130) in /home/cre37351/public_html/MuniSocial/solicitud/functions.php on line 2
+[15-Mar-2019 15:24:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:130) in /home/cre37351/public_html/MuniSocial/solicitud/functions.php on line 3
+[15-Mar-2019 12:24:23 America/Santiago] PHP Notice:  Undefined index: sector in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 237
+[15-Mar-2019 15:33:50 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 65
+[15-Mar-2019 15:34:20 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 65
+[15-Mar-2019 15:34:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:130) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 185
+[15-Mar-2019 15:34:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:130) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 186
+[15-Mar-2019 15:34:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:130) in /home/cre37351/public_html/MuniSocial/solicitud/functions.php on line 2
+[15-Mar-2019 15:34:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:130) in /home/cre37351/public_html/MuniSocial/solicitud/functions.php on line 3
+[15-Mar-2019 12:34:20 America/Santiago] PHP Notice:  Undefined index: sector in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 240
+[15-Mar-2019 15:37:06 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 67
+[15-Mar-2019 15:37:28 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 67
+[15-Mar-2019 15:37:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:131) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 187
+[15-Mar-2019 15:37:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:131) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 188
+[15-Mar-2019 15:37:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:131) in /home/cre37351/public_html/MuniSocial/solicitud/functions.php on line 2
+[15-Mar-2019 15:37:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:131) in /home/cre37351/public_html/MuniSocial/solicitud/functions.php on line 3
+[15-Mar-2019 12:37:28 America/Santiago] PHP Notice:  Undefined index: sector in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 240
+[15-Mar-2019 16:26:57 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 61
+[15-Mar-2019 16:27:21 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 61
+[15-Mar-2019 16:27:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:125) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 181
+[15-Mar-2019 16:27:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:125) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 182
+[15-Mar-2019 16:27:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:125) in /home/cre37351/public_html/MuniSocial/solicitud/functions.php on line 2
+[15-Mar-2019 16:27:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:125) in /home/cre37351/public_html/MuniSocial/solicitud/functions.php on line 3
+[15-Mar-2019 13:27:21 America/Santiago] PHP Notice:  Undefined index: sector in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 239
+[15-Mar-2019 18:11:06 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 65
+[15-Mar-2019 18:12:20 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 65
+[15-Mar-2019 18:12:46 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 65
+[15-Mar-2019 18:12:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:130) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 185
+[15-Mar-2019 18:12:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:130) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 186
+[15-Mar-2019 18:12:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:130) in /home/cre37351/public_html/MuniSocial/solicitud/functions.php on line 2
+[15-Mar-2019 18:12:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:130) in /home/cre37351/public_html/MuniSocial/solicitud/functions.php on line 3
+[18-Mar-2019 02:05:51 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 67
+[18-Mar-2019 02:06:54 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 67
+[18-Mar-2019 02:07:54 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 67
+[18-Mar-2019 02:08:55 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 67
+[18-Mar-2019 02:12:40 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 67
+[18-Mar-2019 02:20:39 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 68
+[18-Mar-2019 02:21:25 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 68
+[18-Mar-2019 02:25:31 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 67
+[18-Mar-2019 02:27:45 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 67
+[18-Mar-2019 02:28:34 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 68
+[18-Mar-2019 02:29:00 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 68
+[18-Mar-2019 02:29:59 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 68
+[18-Mar-2019 02:31:33 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 70
+[18-Mar-2019 02:32:42 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 69
+[18-Mar-2019 02:33:22 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 70
+[18-Mar-2019 02:35:24 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 70
+[18-Mar-2019 02:35:57 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 70
+[18-Mar-2019 02:36:52 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 70
+[18-Mar-2019 02:37:23 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 70
+[18-Mar-2019 11:52:11 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 70
+[18-Mar-2019 11:57:38 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 70
+[18-Mar-2019 12:00:03 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 70
+[18-Mar-2019 12:01:01 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 69
+[18-Mar-2019 12:01:31 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 69
+[18-Mar-2019 12:02:26 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 69
+[18-Mar-2019 12:05:04 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 69
+[18-Mar-2019 12:12:58 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 69
+[18-Mar-2019 12:15:29 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 69
+[18-Mar-2019 12:16:26 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 69
+[18-Mar-2019 12:16:45 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 69
+[18-Mar-2019 12:17:03 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 69
+[18-Mar-2019 12:18:57 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 69
+[18-Mar-2019 12:19:13 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 69
+[18-Mar-2019 12:19:37 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 69
+[18-Mar-2019 12:20:47 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 69
+[18-Mar-2019 12:21:13 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 69
+[18-Mar-2019 12:21:29 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 69
+[18-Mar-2019 12:21:49 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 69
+[18-Mar-2019 12:22:09 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 69
+[18-Mar-2019 12:22:42 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 69
+[18-Mar-2019 12:23:18 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 69
+[18-Mar-2019 12:23:52 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 69
+[18-Mar-2019 12:24:13 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 69
+[18-Mar-2019 12:24:30 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 69
+[18-Mar-2019 12:24:59 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 69
+[18-Mar-2019 12:25:17 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 69
+[18-Mar-2019 12:25:32 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 69
+[18-Mar-2019 12:25:56 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 69
+[18-Mar-2019 12:26:14 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 69
+[18-Mar-2019 12:26:32 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 69
+[18-Mar-2019 12:26:47 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 69
+[18-Mar-2019 12:27:03 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 69
+[18-Mar-2019 12:27:18 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 69
+[18-Mar-2019 12:27:37 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 69
+[18-Mar-2019 12:27:49 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 69
+[18-Mar-2019 12:28:24 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 69
+[18-Mar-2019 12:28:57 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 69
+[18-Mar-2019 12:29:37 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 69
+[18-Mar-2019 12:30:11 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 69
+[18-Mar-2019 12:30:52 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 69
+[18-Mar-2019 12:31:28 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 69
+[18-Mar-2019 12:31:43 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 69
+[18-Mar-2019 12:31:57 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 69
+[18-Mar-2019 12:34:47 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 69
+[18-Mar-2019 12:35:19 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 69
+[18-Mar-2019 12:36:59 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 69
+[18-Mar-2019 12:38:42 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 69
+[18-Mar-2019 12:40:47 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 69
+[18-Mar-2019 12:41:09 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 69
+[18-Mar-2019 12:41:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:134) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 191
+[18-Mar-2019 12:41:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:134) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 192
+[18-Mar-2019 12:41:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:134) in /home/cre37351/public_html/MuniSocial/solicitud/functions.php on line 2
+[18-Mar-2019 12:41:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:134) in /home/cre37351/public_html/MuniSocial/solicitud/functions.php on line 3
+[18-Mar-2019 12:42:43 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 69
+[18-Mar-2019 12:46:11 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 69
+[18-Mar-2019 12:48:06 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 73
+[18-Mar-2019 12:48:57 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[18-Mar-2019 12:53:16 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[18-Mar-2019 12:54:10 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[18-Mar-2019 12:54:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:142) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 199
+[18-Mar-2019 12:54:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:142) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 200
+[18-Mar-2019 12:54:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:142) in /home/cre37351/public_html/MuniSocial/solicitud/functions.php on line 2
+[18-Mar-2019 12:54:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:142) in /home/cre37351/public_html/MuniSocial/solicitud/functions.php on line 3
+[18-Mar-2019 12:56:22 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[18-Mar-2019 12:56:53 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[18-Mar-2019 13:39:01 UTC] PHP Notice:  Undefined index: usua in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 75
+[18-Mar-2019 13:39:01 UTC] PHP Notice:  Undefined index: cla in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 76
+[18-Mar-2019 13:39:01 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[18-Mar-2019 13:40:13 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[18-Mar-2019 13:47:29 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[18-Mar-2019 13:47:43 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[18-Mar-2019 13:48:50 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[18-Mar-2019 14:14:03 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[18-Mar-2019 14:15:43 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[18-Mar-2019 14:15:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:142) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 199
+[18-Mar-2019 14:15:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:142) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 200
+[18-Mar-2019 14:15:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:142) in /home/cre37351/public_html/MuniSocial/solicitud/functions.php on line 2
+[18-Mar-2019 14:15:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:142) in /home/cre37351/public_html/MuniSocial/solicitud/functions.php on line 3
+[18-Mar-2019 14:20:04 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[18-Mar-2019 14:22:25 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[18-Mar-2019 14:29:44 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[18-Mar-2019 14:30:54 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[18-Mar-2019 14:34:17 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[18-Mar-2019 14:47:33 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[18-Mar-2019 14:50:02 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[18-Mar-2019 15:10:17 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[18-Mar-2019 15:51:45 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[18-Mar-2019 15:54:49 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[18-Mar-2019 15:54:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:142) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 199
+[18-Mar-2019 15:54:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:142) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 200
+[18-Mar-2019 15:54:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:142) in /home/cre37351/public_html/MuniSocial/solicitud/functions.php on line 2
+[18-Mar-2019 15:54:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:142) in /home/cre37351/public_html/MuniSocial/solicitud/functions.php on line 3
+[18-Mar-2019 18:50:07 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[18-Mar-2019 20:32:09 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[18-Mar-2019 20:32:36 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[18-Mar-2019 20:32:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:142) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 199
+[18-Mar-2019 20:32:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:142) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 200
+[18-Mar-2019 20:32:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:142) in /home/cre37351/public_html/MuniSocial/solicitud/functions.php on line 2
+[18-Mar-2019 20:32:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:142) in /home/cre37351/public_html/MuniSocial/solicitud/functions.php on line 3
+[19-Mar-2019 13:11:40 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[19-Mar-2019 16:24:34 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[19-Mar-2019 16:28:43 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[19-Mar-2019 17:17:53 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[19-Mar-2019 19:45:36 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[19-Mar-2019 19:47:33 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[20-Mar-2019 12:19:13 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[20-Mar-2019 19:26:27 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[20-Mar-2019 19:27:13 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[20-Mar-2019 19:27:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:142) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 199
+[20-Mar-2019 19:27:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:142) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 200
+[20-Mar-2019 19:27:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:142) in /home/cre37351/public_html/MuniSocial/solicitud/functions.php on line 2
+[20-Mar-2019 19:27:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:142) in /home/cre37351/public_html/MuniSocial/solicitud/functions.php on line 3
+[20-Mar-2019 19:42:19 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[20-Mar-2019 19:42:59 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[20-Mar-2019 19:42:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:142) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 199
+[20-Mar-2019 19:42:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:142) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 200
+[20-Mar-2019 19:42:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:142) in /home/cre37351/public_html/MuniSocial/solicitud/functions.php on line 2
+[20-Mar-2019 19:42:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:142) in /home/cre37351/public_html/MuniSocial/solicitud/functions.php on line 3
+[20-Mar-2019 16:42:59 America/Santiago] PHP Notice:  Undefined variable: suma in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 256
+[21-Mar-2019 11:57:20 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[21-Mar-2019 12:00:54 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[21-Mar-2019 12:01:46 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[21-Mar-2019 12:01:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:142) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 199
+[21-Mar-2019 12:01:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:142) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 200
+[21-Mar-2019 12:01:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:142) in /home/cre37351/public_html/MuniSocial/solicitud/functions.php on line 2
+[21-Mar-2019 12:01:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:142) in /home/cre37351/public_html/MuniSocial/solicitud/functions.php on line 3
+[21-Mar-2019 09:01:46 America/Santiago] PHP Notice:  Undefined variable: suma in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 256
+[21-Mar-2019 13:28:30 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[22-Mar-2019 12:21:01 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[22-Mar-2019 15:56:28 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[22-Mar-2019 16:18:01 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[22-Mar-2019 16:46:28 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[25-Mar-2019 14:25:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:142) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 199
+[25-Mar-2019 14:25:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:142) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 200
+[25-Mar-2019 14:25:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:142) in /home/cre37351/public_html/MuniSocial/solicitud/functions.php on line 2
+[25-Mar-2019 14:25:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:142) in /home/cre37351/public_html/MuniSocial/solicitud/functions.php on line 3
+[25-Mar-2019 11:25:25 America/Santiago] PHP Notice:  Undefined variable: suma in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 256
+[25-Mar-2019 14:28:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:142) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 199
+[25-Mar-2019 14:28:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:142) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 200
+[25-Mar-2019 14:28:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:142) in /home/cre37351/public_html/MuniSocial/solicitud/functions.php on line 2
+[25-Mar-2019 14:28:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:142) in /home/cre37351/public_html/MuniSocial/solicitud/functions.php on line 3
+[25-Mar-2019 11:28:06 America/Santiago] PHP Notice:  Undefined variable: suma in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 256
+[25-Mar-2019 15:25:28 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[25-Mar-2019 15:26:06 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[25-Mar-2019 15:26:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:142) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 199
+[25-Mar-2019 15:26:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:142) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 200
+[25-Mar-2019 15:26:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:142) in /home/cre37351/public_html/MuniSocial/solicitud/functions.php on line 2
+[25-Mar-2019 15:26:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:142) in /home/cre37351/public_html/MuniSocial/solicitud/functions.php on line 3
+[25-Mar-2019 12:26:06 America/Santiago] PHP Notice:  Undefined variable: suma in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 256
+[25-Mar-2019 15:26:26 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[25-Mar-2019 15:26:54 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[25-Mar-2019 15:26:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:142) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 199
+[25-Mar-2019 15:26:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:142) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 200
+[25-Mar-2019 15:26:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:142) in /home/cre37351/public_html/MuniSocial/solicitud/functions.php on line 2
+[25-Mar-2019 15:26:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:142) in /home/cre37351/public_html/MuniSocial/solicitud/functions.php on line 3
+[25-Mar-2019 12:26:54 America/Santiago] PHP Notice:  Undefined variable: suma in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 256
+[26-Mar-2019 12:14:28 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[26-Mar-2019 12:14:52 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[26-Mar-2019 12:16:05 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[26-Mar-2019 12:17:09 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[26-Mar-2019 12:18:44 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[26-Mar-2019 12:19:27 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[26-Mar-2019 12:20:22 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[26-Mar-2019 12:20:51 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[26-Mar-2019 12:21:25 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[26-Mar-2019 12:22:10 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[26-Mar-2019 12:22:45 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[26-Mar-2019 12:23:41 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[26-Mar-2019 12:24:05 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[26-Mar-2019 12:26:00 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[26-Mar-2019 12:50:15 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[26-Mar-2019 13:44:14 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[26-Mar-2019 13:44:26 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[26-Mar-2019 13:44:50 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[26-Mar-2019 13:44:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:142) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 199
+[26-Mar-2019 13:44:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:142) in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 200
+[26-Mar-2019 13:44:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:142) in /home/cre37351/public_html/MuniSocial/solicitud/functions.php on line 2
+[26-Mar-2019 13:44:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php:142) in /home/cre37351/public_html/MuniSocial/solicitud/functions.php on line 3
+[26-Mar-2019 10:44:50 America/Santiago] PHP Notice:  Undefined variable: suma in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 256
+[27-Mar-2019 12:58:19 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[27-Mar-2019 13:03:54 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[27-Mar-2019 13:04:11 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[27-Mar-2019 13:04:43 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[27-Mar-2019 13:06:06 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[27-Mar-2019 13:06:28 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[27-Mar-2019 13:06:42 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[27-Mar-2019 13:08:04 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[27-Mar-2019 13:08:22 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[27-Mar-2019 13:08:41 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[27-Mar-2019 13:25:39 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[27-Mar-2019 13:28:42 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[27-Mar-2019 13:48:38 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[27-Mar-2019 13:49:01 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud/registro_solicitud.php on line 77
+[08-Apr-2019 14:27:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php:140) in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 197
+[08-Apr-2019 14:27:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php:140) in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 198
+[08-Apr-2019 14:27:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php:140) in /home/cre37351/public_html/MuniSocial/solicitud_anterior/functions.php on line 2
+[08-Apr-2019 14:27:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php:140) in /home/cre37351/public_html/MuniSocial/solicitud_anterior/functions.php on line 3
+[08-Apr-2019 11:27:21 America/Santiago] PHP Notice:  Undefined variable: suma in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 254
+[08-Apr-2019 14:44:15 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 77
+[08-Apr-2019 14:45:04 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 77
+[08-Apr-2019 14:46:50 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 77
+[08-Apr-2019 14:49:25 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 77
+[08-Apr-2019 14:56:19 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 77
+[08-Apr-2019 14:59:25 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 77
+[08-Apr-2019 15:00:38 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 77
+[08-Apr-2019 15:02:51 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 77
+[08-Apr-2019 15:04:25 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 77
+[08-Apr-2019 15:10:51 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 77
+[08-Apr-2019 15:11:53 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 77
+[08-Apr-2019 15:12:10 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 77
+[08-Apr-2019 15:12:58 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 77
+[08-Apr-2019 15:14:21 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 77
+[08-Apr-2019 15:16:07 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 77
+[08-Apr-2019 15:18:31 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 77
+[08-Apr-2019 15:26:34 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 77
+[08-Apr-2019 15:28:44 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 77
+[08-Apr-2019 15:30:43 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 77
+[08-Apr-2019 15:31:56 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 77
+[08-Apr-2019 15:33:00 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 77
+[08-Apr-2019 15:57:48 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 77
+[08-Apr-2019 16:24:25 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 77
+[08-Apr-2019 18:00:50 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 77
+[08-Apr-2019 18:01:39 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 77
+[09-Apr-2019 15:44:03 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 77
+[09-Apr-2019 15:45:15 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 77
+[09-Apr-2019 15:46:15 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 77
+[09-Apr-2019 15:46:15 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 77
+[09-Apr-2019 15:47:34 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 77
+[09-Apr-2019 15:47:59 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 77
+[09-Apr-2019 15:51:17 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 77
+[09-Apr-2019 15:52:13 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 77
+[09-Apr-2019 16:10:14 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 77
+[09-Apr-2019 16:10:27 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 77
+[09-Apr-2019 16:11:05 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 77
+[10-Apr-2019 14:05:30 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 77
+[10-Apr-2019 14:06:50 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 77
+[10-Apr-2019 14:09:05 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 77
+[10-Apr-2019 14:09:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php:131) in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 187
+[10-Apr-2019 14:09:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php:131) in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 188
+[10-Apr-2019 14:09:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php:131) in /home/cre37351/public_html/MuniSocial/solicitud_anterior/functions.php on line 2
+[10-Apr-2019 14:09:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php:131) in /home/cre37351/public_html/MuniSocial/solicitud_anterior/functions.php on line 3
+[10-Apr-2019 11:09:05 America/Santiago] PHP Notice:  Undefined variable: suma in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 244
+[10-Apr-2019 14:12:39 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 77
+[10-Apr-2019 14:13:50 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 77
+[10-Apr-2019 14:50:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php:131) in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 187
+[10-Apr-2019 14:50:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php:131) in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 188
+[10-Apr-2019 14:50:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php:131) in /home/cre37351/public_html/MuniSocial/solicitud_anterior/functions.php on line 2
+[10-Apr-2019 14:50:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php:131) in /home/cre37351/public_html/MuniSocial/solicitud_anterior/functions.php on line 3
+[10-Apr-2019 11:50:29 America/Santiago] PHP Notice:  Undefined variable: suma in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 244
+[10-Apr-2019 15:05:05 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 77
+[10-Apr-2019 15:21:49 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 77
+[10-Apr-2019 15:27:07 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 77
+[16-Apr-2019 15:01:26 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 77
+[16-Apr-2019 15:38:20 UTC] PHP Notice:  Undefined index: is in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 77
+[16-Apr-2019 21:09:00 UTC] PHP Notice:  Undefined index: usua in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 75
+[16-Apr-2019 21:09:00 UTC] PHP Notice:  Undefined index: cla in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 76
+[16-Apr-2019 21:09:00 UTC] PHP Notice:  Undefined index: is4 in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 77
+[16-Apr-2019 21:09:00 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 79
+[16-Apr-2019 21:42:50 UTC] PHP Notice:  Undefined index: usua in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 75
+[16-Apr-2019 21:42:50 UTC] PHP Notice:  Undefined index: cla in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 76
+[16-Apr-2019 21:42:50 UTC] PHP Notice:  Undefined index: is4 in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 77
+[16-Apr-2019 21:42:50 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 79
+[17-Apr-2019 13:35:46 UTC] PHP Notice:  Undefined index: usua in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 75
+[17-Apr-2019 13:35:46 UTC] PHP Notice:  Undefined index: cla in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 76
+[17-Apr-2019 13:35:46 UTC] PHP Notice:  Undefined index: is4 in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 77
+[17-Apr-2019 13:35:46 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 79
+[18-Apr-2019 14:41:10 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 116
+[18-Apr-2019 14:41:10 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 118
+[18-Apr-2019 14:41:10 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 120
+[18-Apr-2019 14:41:10 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 122
+[18-Apr-2019 14:41:10 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 124
+[18-Apr-2019 14:51:18 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 116
+[18-Apr-2019 14:51:18 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 118
+[18-Apr-2019 14:51:18 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 120
+[18-Apr-2019 14:51:18 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 122
+[18-Apr-2019 14:51:18 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 124
+[18-Apr-2019 14:51:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 116
+[18-Apr-2019 14:51:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 118
+[18-Apr-2019 14:51:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 120
+[18-Apr-2019 14:51:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 122
+[18-Apr-2019 14:51:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 124
+[18-Apr-2019 14:52:04 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 116
+[18-Apr-2019 14:52:04 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 118
+[18-Apr-2019 14:52:04 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 120
+[18-Apr-2019 14:52:04 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 122
+[18-Apr-2019 14:52:04 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 124
+[18-Apr-2019 14:52:21 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 116
+[18-Apr-2019 14:52:21 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 118
+[18-Apr-2019 14:52:21 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 120
+[18-Apr-2019 14:52:21 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 122
+[18-Apr-2019 14:52:21 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 124
+[18-Apr-2019 16:08:22 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 116
+[18-Apr-2019 16:08:22 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 118
+[18-Apr-2019 16:08:22 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 120
+[18-Apr-2019 16:08:22 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 122
+[18-Apr-2019 16:08:22 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 124
+[23-Apr-2019 13:56:19 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 116
+[23-Apr-2019 13:56:19 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 118
+[23-Apr-2019 13:56:19 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 120
+[23-Apr-2019 13:56:19 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 122
+[23-Apr-2019 13:56:19 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 124
+[25-Apr-2019 13:33:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 116
+[25-Apr-2019 13:33:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 118
+[25-Apr-2019 13:33:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 120
+[25-Apr-2019 13:33:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 122
+[25-Apr-2019 13:33:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 124
+[01-May-2019 01:49:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 116
+[01-May-2019 01:49:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 118
+[01-May-2019 01:49:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 120
+[01-May-2019 01:49:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 122
+[01-May-2019 01:49:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 124
+[02-May-2019 20:11:09 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 117
+[02-May-2019 20:11:09 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 119
+[02-May-2019 20:11:09 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 121
+[02-May-2019 20:11:09 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 123
+[02-May-2019 20:11:09 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 125
+[02-May-2019 20:11:17 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, object given in /home/cre37351/public_html/MuniSocial/solicitud_anterior/buscar.php on line 25
+[02-May-2019 20:11:26 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, object given in /home/cre37351/public_html/MuniSocial/solicitud_anterior/buscar.php on line 25
+[02-May-2019 20:11:38 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, object given in /home/cre37351/public_html/MuniSocial/solicitud_anterior/buscar.php on line 25
+[02-May-2019 21:10:22 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 117
+[02-May-2019 21:10:22 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 119
+[02-May-2019 21:10:22 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 121
+[02-May-2019 21:10:22 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 123
+[02-May-2019 21:10:22 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 125
+[02-May-2019 21:10:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 116
+[02-May-2019 21:10:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 118
+[02-May-2019 21:10:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 120
+[02-May-2019 21:10:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 122
+[02-May-2019 21:10:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 124
+[06-May-2019 03:18:28 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 116
+[06-May-2019 03:18:28 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 118
+[06-May-2019 03:18:28 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 120
+[06-May-2019 03:18:28 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 122
+[06-May-2019 03:18:28 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 124
+[07-May-2019 17:11:17 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 116
+[07-May-2019 17:11:17 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 118
+[07-May-2019 17:11:17 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 120
+[07-May-2019 17:11:17 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 122
+[07-May-2019 17:11:17 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 124
+[07-May-2019 17:22:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 116
+[07-May-2019 17:22:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 118
+[07-May-2019 17:22:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 120
+[07-May-2019 17:22:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 122
+[07-May-2019 17:22:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 124
+[09-May-2019 00:16:01 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 116
+[09-May-2019 00:16:01 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 118
+[09-May-2019 00:16:01 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 120
+[09-May-2019 00:16:01 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 122
+[09-May-2019 00:16:01 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 124
+[13-May-2019 16:21:41 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 118
+[13-May-2019 16:21:41 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 120
+[13-May-2019 16:21:41 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 122
+[13-May-2019 16:21:41 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 124
+[13-May-2019 16:21:41 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 126
+[13-May-2019 16:23:34 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 117
+[13-May-2019 16:23:34 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 118
+[13-May-2019 16:23:34 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 119
+[13-May-2019 16:23:34 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 120
+[13-May-2019 16:23:34 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 121
+[13-May-2019 16:23:46 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 117
+[13-May-2019 16:23:46 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 118
+[13-May-2019 16:23:46 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 119
+[13-May-2019 16:23:46 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 120
+[13-May-2019 16:23:46 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 121
+[13-May-2019 16:24:14 UTC] PHP Notice:  Undefined index: usua in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 77
+[13-May-2019 16:24:14 UTC] PHP Notice:  Undefined index: cla in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 78
+[13-May-2019 16:24:14 UTC] PHP Notice:  Undefined index: is4 in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 79
+[13-May-2019 16:24:14 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 81
+[13-May-2019 16:24:14 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 118
+[13-May-2019 16:24:14 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 119
+[13-May-2019 16:24:14 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 120
+[13-May-2019 16:24:14 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 121
+[13-May-2019 16:24:27 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 117
+[13-May-2019 16:24:27 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 118
+[13-May-2019 16:24:27 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 119
+[13-May-2019 16:24:27 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 120
+[13-May-2019 16:24:27 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 121
+[13-May-2019 16:29:39 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 117
+[13-May-2019 16:29:39 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 118
+[13-May-2019 16:29:39 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 119
+[13-May-2019 16:29:39 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 120
+[13-May-2019 16:29:39 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 121
+[14-May-2019 12:56:47 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 117
+[14-May-2019 12:56:47 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 118
+[14-May-2019 12:56:47 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 119
+[14-May-2019 12:56:47 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 120
+[14-May-2019 12:56:47 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 121
+[14-May-2019 17:10:40 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 117
+[14-May-2019 17:10:40 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 118
+[14-May-2019 17:10:40 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 119
+[14-May-2019 17:10:40 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 120
+[14-May-2019 17:10:40 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 121
+[14-May-2019 17:11:12 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 117
+[14-May-2019 17:11:12 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 118
+[14-May-2019 17:11:12 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 119
+[14-May-2019 17:11:12 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 120
+[14-May-2019 17:11:12 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 121
+[14-May-2019 17:11:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 117
+[14-May-2019 17:11:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 118
+[14-May-2019 17:11:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 119
+[14-May-2019 17:11:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 120
+[14-May-2019 17:11:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 121
+[15-May-2019 21:25:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 117
+[15-May-2019 21:25:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 118
+[15-May-2019 21:25:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 119
+[15-May-2019 21:25:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 120
+[15-May-2019 21:25:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 121
+[15-May-2019 21:26:11 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 117
+[15-May-2019 21:26:11 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 118
+[15-May-2019 21:26:11 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 119
+[15-May-2019 21:26:11 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 120
+[15-May-2019 21:26:11 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 121
+[15-May-2019 21:27:14 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 117
+[15-May-2019 21:27:14 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 118
+[15-May-2019 21:27:14 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 119
+[15-May-2019 21:27:14 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 120
+[15-May-2019 21:27:14 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 121
+[16-May-2019 15:16:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 117
+[16-May-2019 15:16:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 118
+[16-May-2019 15:16:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 119
+[16-May-2019 15:16:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 120
+[16-May-2019 15:16:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 121
+[16-May-2019 18:42:58 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 117
+[16-May-2019 18:42:58 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 118
+[16-May-2019 18:42:58 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 119
+[16-May-2019 18:42:58 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 120
+[16-May-2019 18:42:58 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 121
+[16-May-2019 18:48:14 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 118
+[16-May-2019 18:48:14 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 119
+[16-May-2019 18:48:14 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 120
+[16-May-2019 18:48:14 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 121
+[16-May-2019 18:48:14 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 122
+[16-May-2019 18:49:14 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 118
+[16-May-2019 18:49:14 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 119
+[16-May-2019 18:49:14 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 120
+[16-May-2019 18:49:14 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 121
+[16-May-2019 18:49:14 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 122
+[16-May-2019 20:45:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 118
+[16-May-2019 20:45:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 119
+[16-May-2019 20:45:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 120
+[16-May-2019 20:45:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 121
+[16-May-2019 20:45:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 122
+[17-May-2019 13:09:43 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 118
+[17-May-2019 13:09:43 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 119
+[17-May-2019 13:09:43 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 120
+[17-May-2019 13:09:43 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 121
+[17-May-2019 13:09:43 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 122
+[17-May-2019 16:57:12 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 118
+[17-May-2019 16:57:12 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 119
+[17-May-2019 16:57:12 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 120
+[17-May-2019 16:57:12 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 121
+[17-May-2019 16:57:12 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 122
+[13-Dec-2021 14:33:26 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 245
+[13-Dec-2021 14:33:26 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 118
+[13-Dec-2021 14:33:26 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 119
+[13-Dec-2021 14:33:26 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 120
+[13-Dec-2021 14:33:26 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 121
+[13-Dec-2021 14:33:26 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/cre37351/public_html/MuniSocial/solicitud_anterior/registro_solicitud.php on line 122

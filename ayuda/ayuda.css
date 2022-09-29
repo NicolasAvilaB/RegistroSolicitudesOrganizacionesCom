@@ -1,0 +1,16 @@
+@charset "utf-8";
+.texto_login{
+        text-align:justify;
+    padding:0px 2%;
+    font-size:5vw;
+        	font-family:"proxima-nova-soft", "Proxima Nova Soft", Helvetica, Arial, sans-serif;
+}
+
+.texto_resumen{
+    padding:0px 2%;
+    font-size:5vw;
+        	font-family:"proxima-nova-soft", "Proxima Nova Soft", Helvetica, Arial, sans-serif;
+}
+.subti{
+    font-weight:bold;
+}
