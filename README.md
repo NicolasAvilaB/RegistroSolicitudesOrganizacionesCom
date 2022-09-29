@@ -1,1 +1,1 @@
-# RegistroSolicitudesOrganizacionesCom
+# Registro Solicitudes Organizaciones Comunitarias
